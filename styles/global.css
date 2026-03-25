@@ -1,0 +1,7 @@
+/*global styles é onde vou definir as informaçôes globais */
+
+*{
+margin: 0;
+padding: 0%;
+box-sizing: border-box;
+}
